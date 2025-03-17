@@ -1,6 +1,6 @@
 websites:
-  - audiolibri.org
-  - example.com
+  - guetta.tech
+  - or.guetta.tech
 output_file: README.md
 max_workers: 2
 timeout: 30
